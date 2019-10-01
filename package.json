@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/LambdaSchool/webapi-ii-guided#readme",
   "devDependencies": {
+    "install": "^0.13.0",
     "nodemon": "^1.19.3"
   },
   "dependencies": {
